@@ -1,3 +1,6 @@
+** Screenshot of Project for Ease of Viewing: **
+[netflix_dashboard_dashboard_screenshot.pdf](https://github.com/hongvictor2024/Tableau-Dashboard-of-Netflix-Productions/files/14258962/netflix_dashboard_dashboard_screenshot.pdf)
+
 # Tableau-Dashboard-of-Netflix-Productions
  Dashboard that enables viewing of individual productions (movies or TV shows) as well as aggregate data across time for all other productions
 
